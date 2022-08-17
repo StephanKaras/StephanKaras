@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Stephan</h1>
+<h1 align="center">Hi 👋, I'm Stephan!</h1>
 <h3 align="center">A Computer science student and a life-long learner of all subjects</h3>
 
 - 📫 How to reach me **Stephen.49251@gmail.com**
