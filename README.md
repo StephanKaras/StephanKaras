@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stephan!</h1>
 <h3 align="center">A Computer science student and a life-long learner of all fields</h3>
 
-- 🌱 I’m currently learning **React Native, JavaScript, Artificial Intelligence, and more.**
+- 🌱 I’m currently learning **JavaScript, React, Artificial Intelligence, and more.**
 
 - 📫 How to reach me **Stephen.49251@gmail.com**
 
