@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stephan!</h1>
-<h3 align="center">A Computer science student and a life-long learner of all subjects</h3>
+<h3 align="center">A Computer science student and a life-long learner of all fields</h3>
 
 - 🌱 I’m currently learning **React Native, JavaScript, Artificial Intelligence, and more.**
 
