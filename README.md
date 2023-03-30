@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React, Artificial Intelligence, and more.**
 
-- 📫 How to reach me **Stephen.49251@gmail.com**
+- 📫 How to reach me **Stephan.karas@stud.th-deg.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
