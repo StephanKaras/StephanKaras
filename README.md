@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stephan!</h1>
-<h3 align="center">A Computer science student and an ambitious philomath</h3>
+<h3 align="center">An Artificial Intelligence student and an ambitious philomath</h3>
 
-- 🌱 I’m currently learning **JavaScript, React, Artificial Intelligence, and more.**
-
-- 📫 How to reach me **Stephan.karas@stud.th-deg.de**
+- 📫 How to reach me **Contact@stephankaras.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
